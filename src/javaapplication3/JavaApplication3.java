@@ -17,6 +17,9 @@ public class JavaApplication3 {
         // TODO code application logic here
         
         System.out.println("line 1");
+
+        
+        System.out.println("line 2");
     }
     
 }
